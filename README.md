@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i58vkd8h4hiy6vhv?svg=true)](https://ci.appveyor.com/project/Still/docfx-plugin-lastmodified)
+# Fork
+- updated the plugin to run on .NET 6
 
 # DocFx.Plugin.LastModified
 A DocFX plugin that adds a last modified date at the end of each conceptual articles.
